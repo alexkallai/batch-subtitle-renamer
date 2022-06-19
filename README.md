@@ -3,7 +3,11 @@ This tool renames all subtitles in a given folder to the video file names
 
 # Usage:
 python main.py "folder where the video files and subtitles are located"
+
+
 e.g.:
+
+
 python main.py "c:\tmp\testfolder\"
 
 ## Description:
