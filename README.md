@@ -10,11 +10,13 @@ python main.py "c:\tmp\testfolder\"
 e.g.: If a folder contains the following files:
 
 House.of.Cards.2013.S02E07.720p.BluRay.x264-DEMAND.srt
+
 House.of.Cards.2013.S02E07.1080p.BluRay.x265-RARBG.mp4
 
 after running to tool it will look like so:
 
 House.of.Cards.2013.S02E07.1080p.BluRay.x265-RARBG.srt
+
 House.of.Cards.2013.S02E07.1080p.BluRay.x265-RARBG.mp4
 
 ---
